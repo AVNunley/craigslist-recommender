@@ -1,10 +1,12 @@
 # craigslist-recommender
 
+_in progress_
+
 This repository hosts a recommendation engine for craigslist ads. This tool will help users of the site discover listings of interest to them with less effort.
 
 ## Dataset
 
-The dataset used to build the tool will be Harvard's "Craigslist Postings in Massachusetts" which can be found here:
+The dataset currently being used to build the tool is Harvard's "Craigslist Postings in Massachusetts" which can be found here:
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/52WSPT
 
@@ -20,17 +22,16 @@ The tool will eventually rely on snapshots of current listings for all items and
 - SciKit-Learn
 - Streamlit
 
+## To Do
 
-## Project Status
-_in progress_
+Now:
+EDA
+Recommendations based on similarity metrics
+Recommendations based on unsupervised ML algorithms
 
-## Future
-
-To do:
-Scrape and wrangle current listing data 
-
-Room for improvement:
-
+Later:
+Scrape and wrangle current listing data
+Recommend based on multiple features
 
 ## Contact
 Adam Nunley
