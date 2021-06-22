@@ -4,7 +4,7 @@ This repository hosts a recommendation engine for craigslist ads. This tool will
 
 ## Notebooks
 
-[Lets go to Quora](https://www.quora.com)
+[1 - EDA and Wrangling](notebooks/1 - EDA and Wrangling.ipynb)
 
 [1 - EDA and Wrangling](notebooks/1 - EDA and Wrangling.ipynb)
 
