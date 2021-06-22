@@ -1,8 +1,12 @@
 # craigslist-recommender
 
-_in progress_
-
 This repository hosts a recommendation engine for craigslist ads. This tool will help users of the site discover listings of interest to them with less effort.
+
+## Notebooks
+
+[1 - EDA and Wrangling](../notebooks/1 - EDA and Wrangling.ipynb)
+
+_in progress_
 
 ## Dataset
 
