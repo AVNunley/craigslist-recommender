@@ -8,7 +8,13 @@ This repository hosts a recommendation engine for craigslist ads. This tool will
 
 [2 - Feature Engineering](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/2%20-%20Feature%20Engineering.ipynb)
 
-[3 - Vectorization](../blob/main/notebooks/3 - Vectorization.ipynb)
+[3 - Vectorization](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/3%20-%20Vectorization.ipynb)
+
+[4 - Similarity-based Recommendations](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/4%20-%20Similarity-based%20Recommendations.ipynb)
+
+[5 - SVD](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/5%20-%20SVD.ipynb)
+
+[6 - Unsupervised Model Recommendations](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/6%20-%20Unsupervised%20Model%20Recommendations.ipynb)
 
 _in progress_
 
