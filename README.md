@@ -8,7 +8,7 @@ This repository hosts a recommendation engine for craigslist ads. This tool will
 
 [2 - Feature Engineering](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/2%20-%20Feature%20Engineering.ipynb)
 
-[3 - Vectorization](blob/main/notebooks/3 - Vectorization.ipynb)
+[3 - Vectorization](../blob/main/notebooks/3 - Vectorization.ipynb)
 
 _in progress_
 
