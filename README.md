@@ -20,7 +20,9 @@ The tool will eventually rely on snapshots of current listings for all items and
 - Matplotlib
 - Seaborn
 - SciKit-Learn
-- Streamlit
+- Gensim
+- NLTK
+- Scipy
 
 ## To Do
 
