@@ -1,8 +1,12 @@
 # craigslist-recommender
 
-_in progress_
-
 This repository hosts a recommendation engine for craigslist ads. This tool will help users of the site discover listings of interest to them with less effort.
+
+## Notebooks
+
+[1 - EDA and Wrangling](notebooks/1 - EDA and Wrangling.ipynb)
+
+_in progress_
 
 ## Dataset
 
@@ -20,18 +24,19 @@ The tool will eventually rely on snapshots of current listings for all items and
 - Matplotlib
 - Seaborn
 - SciKit-Learn
-- Streamlit
+- Gensim
+- NLTK
+- Scipy
 
 ## To Do
 
 Now:
-EDA
-Recommendations based on similarity metrics
+
 Recommendations based on unsupervised ML algorithms
 
 Later:
+
 Scrape and wrangle current listing data
-Recommend based on multiple features
 
 ## Contact
 Adam Nunley
