@@ -38,15 +38,11 @@ The tool will eventually rely on snapshots of current listings for all items and
 - NLTK
 - Scipy
 
-## To Do
-
-Now:
-
-Recommendations based on unsupervised ML algorithms
-
-Later:
+## Future Work
 
 Scrape and wrangle current listing data
+
+Streamlit App
 
 ## Contact
 Adam Nunley
