@@ -25,13 +25,12 @@ The tool will eventually rely on snapshots of current listings for all items and
 ## To Do
 
 Now:
-EDA
-Recommendations based on similarity metrics
+
 Recommendations based on unsupervised ML algorithms
 
 Later:
+
 Scrape and wrangle current listing data
-Recommend based on multiple features
 
 ## Contact
 Adam Nunley
