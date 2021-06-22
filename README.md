@@ -4,9 +4,11 @@ This repository hosts a recommendation engine for craigslist ads. This tool will
 
 ## Notebooks
 
-[1 - EDA and Wrangling](notebooks/1 - EDA and Wrangling.ipynb)
+[1 - EDA and Wrangling](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/1%20-%20EDA%20and%20Wrangling.ipynb)
 
-[1 - EDA and Wrangling](notebooks/1 - EDA and Wrangling.ipynb)
+[2 - Feature Engineering](https://github.com/AVNunley/craigslist-recommender/blob/main/notebooks/2%20-%20Feature%20Engineering.ipynb)
+
+[3 - Vectorization](blob/main/notebooks/3 - Vectorization.ipynb)
 
 _in progress_
 
