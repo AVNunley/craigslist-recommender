@@ -29,18 +29,18 @@ This dataset contains housing listings for Massachusetts that were active on the
 The tool will eventually rely on snapshots of current listings for all items and services available on the site.
 
 ## Libraries Used
-- Numpy
-- Pandas
 - Matplotlib
 - Seaborn
 - SciKit-Learn
 - Gensim
 - NLTK
 - Scipy
+- Numpy
+- Pandas
 
 ## Future Work
 
-Scrape and wrangle current listing data
+Scrape, model current listing data
 
 Streamlit App
 
